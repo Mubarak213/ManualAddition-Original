@@ -4,6 +4,6 @@
   <artifactId>ManualAddition</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  <fileName>sucess-jar-file</fileName>
+  <finalName>sucess-jar-file</finalName>
   </build>
 </project>
