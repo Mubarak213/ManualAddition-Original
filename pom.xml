@@ -3,4 +3,7 @@
   <groupId>ManualAddition</groupId>
   <artifactId>ManualAddition</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+  <fileName>sucess-jar-file</fileName>
+  </build>
 </project>
